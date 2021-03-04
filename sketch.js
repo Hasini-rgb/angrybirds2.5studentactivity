@@ -61,4 +61,5 @@ function draw(){
 
     bird.display();
     platform.display();
+    rect(0,0,10,10);
 }
